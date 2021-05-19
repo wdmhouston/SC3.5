@@ -1,0 +1,3 @@
+Yelp reviews - Polarity	Xiang Zhang et al., 2015	download	1,569,264 samples from the Yelp Dataset Challenge 2015. This subset has 280,000 training samples and 19,000 test samples in each polarity.
+
+https://course.fast.ai/datasets

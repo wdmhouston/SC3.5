@@ -1,0 +1,1 @@
+https://movement.uber.com/explore/washington_DC/travel-times/query?si=186&ti=413&ag=censustracts&dt[tpb]=ALL_DAY&dt[wd;]=1,2,3,4,5,6,7&dt[dr][sd]=2020-03-01&dt[dr][ed]=2020-03-31&cd=&sa;=&sdn=&ta;=&tdn=&lang=en-US
